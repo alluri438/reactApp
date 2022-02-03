@@ -6,9 +6,7 @@ class Content extends React.Component {
     render() {
         return (
             <Fragment>
-                <center>
-                    <p>This is what I see </p>
-                </center>
+                <p className="content">This is what I see </p>
             </Fragment>
         )
     }
